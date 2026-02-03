@@ -118,7 +118,7 @@ int modify(int i)
  * Uses a `while` loop to display the information about the students stored in
  * the object array.
  *
- * Input:
+ * Input :
  * objArray - an array of `Student` objects
  * SIZE     - a constant integer that represents the size of the array
  *
